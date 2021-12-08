@@ -1,3 +1,0 @@
-# Aerio
-
-Cool company
