@@ -4,12 +4,6 @@ Software company specializing in web and mobile development.
 
 Visit our [website](https://aerio.tech/) to learn more or schedule a meeting.
 
-## Services
-
-- 🌐 Web development
-- 📱 App development
-- ✏️ Design
-
 ## Contact
 
 <p align='center'>
