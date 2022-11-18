@@ -1,4 +1,4 @@
-# Aerio
+# Aerio | Building the future
 
 Software company specializing in web and mobile development.
 
